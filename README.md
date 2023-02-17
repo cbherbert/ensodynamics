@@ -1,5 +1,7 @@
 # ENSO dynamics
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbherbert/ensodynamics/HEAD)
+
 This repository contains a Jupyter notebook used for a class about climate variability in the Masters program at the Department of Physics at *ENS de Lyon*.
 
 The goal is to study a very simple conceptual model of the dynamics of the *El Niño Southern Oscillation*, the Jin model.
@@ -24,3 +26,7 @@ pip install -r requirements.txt
 pip install jupyter
 jupyter notebook enso-dynamics.ipynb
 ```
+
+### Cloud computing
+
+You can use this notebook without installing or downloading anything on your machine, by using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cbherbert/ensodynamics/HEAD)
